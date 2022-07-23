@@ -24,5 +24,5 @@ import pandas as (small name with which you can call it)
 Example : 
 import numpy as pd
 
-If you want to know more about pip and it's usage : [click me](https://pypi.org)
+If you want to know more about pip and it's usage : [click me](https://pypi.org) <br>
 Here, you will find everything about python packages and ways to install them
