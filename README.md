@@ -20,9 +20,9 @@ pip install pandas or conda install pandas
 
 Importing Pandas :
 
-import pandas as (small name with which you can call it) 
-Example : 
-import numpy as pd
+import pandas as (small name with which you can call it) <br>
+Example : <br>
+import pandas as pd
 
 If you want to know more about pip and it's usage : [click me](https://pypi.org) <br>
 Here, you will find everything about python packages and ways to install them
